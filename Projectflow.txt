@@ -3,3 +3,8 @@ building project:
 2> Add src Folder along with all components(run them individually).
 3> Add data, models, reports directories to .gitignore file
 4> Now git add,  commit, push
+
+setting up dvc pipeline(without params)
+5> CREATE dvc.yaml file and stages to it.
+6> dvc init then do repro to test the pipe;line automation. (check dvc dag)
+7> now git add, commit, push
